@@ -1,0 +1,5 @@
+# No external dependencies required
+# tkinter comes built-in with Python
+# This file is for compatibility and future dependency management
+
+# Python 3.7+
